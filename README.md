@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @pysammy
 - 👀 I’m interested in data science and machine learning
-- 🌱 I’m currently pursuing bachelor's in computer science degree program
+- 🌱 Computer science BTECH GRAD
 - 💞️ I’m looking to collaborate on various open source projects and data science machine learning projects
 - 📫 How to reach me :- mail id: varpesamiksha2011@gmail.com
 
